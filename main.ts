@@ -1,7 +1,7 @@
 namespace demo {
     //% block
     export function displaySmile() {
-        basic .showString("smrille");
+        basic .showString("smr ille");
         
     }
 }

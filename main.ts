@@ -3,4 +3,4 @@ namespace demo {
     export function displaySmile() {
         basic .showString(" idsdflle")
     }//
-}
+}//
